@@ -5,7 +5,7 @@ function setup() {
   pixelDensity(1);
 
   canvasIMG = createCanvas(window.windowWidth, window.windowHeight);
-  background(255, 0, 0);
+  background(300, 0, 0);
 
 }
 
