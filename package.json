@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/atharvaranade4/WebApp/issues"
   },
-  "homepage": "https://github.com/atharvaranade4/WebApp#readme"
+  "homepage": "https://github.com/atharvaranade4/WebApp#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
