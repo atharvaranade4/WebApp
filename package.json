@@ -1,0 +1,19 @@
+{
+  "name": "webapp",
+  "version": "1.0.0",
+  "description": "first web app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atharvaranade4/WebApp.git"
+  },
+  "author": "Atharva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/atharvaranade4/WebApp/issues"
+  },
+  "homepage": "https://github.com/atharvaranade4/WebApp#readme"
+}
